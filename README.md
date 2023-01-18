@@ -16,4 +16,5 @@ Collection of resources to predict epitopes for MHC-I and MHC-II.
 ## Resources
 - [An introduction to deep learning on biological sequence data: examples and solutions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870575/)
 - [Deep learning neural network tools for proteomics](https://www.cell.com/cell-reports-methods/pdf/S2667-2375(21)00003-5.pdf)
+- https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03546-x
 
