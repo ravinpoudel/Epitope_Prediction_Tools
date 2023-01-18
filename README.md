@@ -14,4 +14,4 @@ Collection of resources to predict epitopes for MHC-I and MHC-II.
 
 
 ## Resources
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870575/
+- [An introduction to deep learning on biological sequence data: examples and solutions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870575/)
